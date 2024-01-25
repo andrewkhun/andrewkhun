@@ -7,7 +7,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andrewkhun/azure-network-protocols)
   - [Configuring Active Directory within Azure VMs](https://github.com/andrewkhun/configure-ad)
   - [Understanding and Building Intuition for DNS](https://github.com/andrewkhun/understanding-dns)
-  - [Network File shares and Permissions](https://github.com/andrewkhun/network-fileshare)</br></br>
+  - [Network File shares and Permissions](https://github.com/andrewkhun/network-file-shares)</br></br>
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/andrewkhun/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/andrewkhun/post-install-config)
