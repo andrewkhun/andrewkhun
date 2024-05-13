@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Cybersecurity Projects</b>
+  - [Creating a SOC and Honeynet in Azure with Real-World Cyber Threats](https://github.com/andrewkhun/Azure-Honeynet-SOC)
+  
 - <b>Microsoft Azure</b>
   - [Azure Basics: Resource Groups and File Management](https://github.com/andrewkhun/azure-basics)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andrewkhun/azure-network-protocols)
