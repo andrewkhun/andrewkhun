@@ -4,7 +4,7 @@
 
 - <b>Cybersecurity Projects</b>
   - [Creating a SOC and Honeynet in Azure with Real-World Cyber Threats](https://github.com/andrewkhun/Azure-Honeynet-SOC)
-  - [Conducting a Security Audit on Botium Toys]()
+  - [Conducting a Security Audit on Botium Toys](https://drive.google.com/file/d/1rwK-XaMWbhd4AU6YiwEPu2aozkVtPFAy/view)
   
 - <b>Microsoft Azure</b>
   - [Azure Basics: Resource Groups and File Management](https://github.com/andrewkhun/azure-basics)
