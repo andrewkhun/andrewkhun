@@ -18,7 +18,7 @@ I am a cybersecurity enthusiast with a unique ability to swiftly adapt to new en
 - **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andrewkhun/azure-network-protocols)**
 - **[Configuring Active Directory within Azure VMs](https://github.com/andrewkhun/configure-ad)**
 - **[Understanding and Building Intuition for DNS](https://github.com/andrewkhun/understanding-dns)**
-- **[Network File shares and Permissions](https://github.com/andrewkhun/network-file-shares)</br></br>**
+- **[Network File shares and Permissions](https://github.com/andrewkhun/network-file-shares)**
 
 ### osTicket (Help Desk Ticketing System)
 - **[osTicket: Prerequisites and Installation](https://github.com/andrewkhun/osticket-prereqs)**
