@@ -10,20 +10,20 @@ I am a cybersecurity enthusiast with a unique ability to swiftly adapt to new en
 
 ### Cybersecurity Projects
 
-- [Creating a SOC and Honeynet in Azure with Real-World Cyber Threats](https://github.com/andrewkhun/Azure-Honeynet-SOC)
+- **[Creating a SOC and Honeynet in Azure with Real-World Cyber Threats](https://github.com/andrewkhun/Azure-Honeynet-SOC)**
 
-- [Conducting a Security Audit on Botium Toys](https://github.com/andrewkhun/Botium-Toys-Audit)
+- **[Conducting a Security Audit on Botium Toys](https://github.com/andrewkhun/Botium-Toys-Audit)**
 
   
-- <b>Microsoft Azure</b>
-  - [Azure Basics: Resource Groups and File Management](https://github.com/andrewkhun/azure-basics)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andrewkhun/azure-network-protocols)
-  - [Configuring Active Directory within Azure VMs](https://github.com/andrewkhun/configure-ad)
-  - [Understanding and Building Intuition for DNS](https://github.com/andrewkhun/understanding-dns)
-  - [Network File shares and Permissions](https://github.com/andrewkhun/network-file-shares)</br></br>
+### Microsoft Azure
+- **[Azure Basics: Resource Groups and File Management](https://github.com/andrewkhun/azure-basics)**
+- **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andrewkhun/azure-network-protocols)**
+- **[Configuring Active Directory within Azure VMs](https://github.com/andrewkhun/configure-ad)**
+- **[Understanding and Building Intuition for DNS](https://github.com/andrewkhun/understanding-dns)**
+- **[Network File shares and Permissions](https://github.com/andrewkhun/network-file-shares)</br></br>**
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/andrewkhun/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/andrewkhun/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/andrewkhun/ticket-lifecycle)
+### osTicket (Help Desk Ticketing System)
+- **[osTicket: Prerequisites and Installation](https://github.com/andrewkhun/osticket-prereqs)**
+- **[osTicket: Post-Installation Configuration](https://github.com/andrewkhun/post-install-config)**
+- **[osTicket: Ticket Lifecycle Examples](https://github.com/andrewkhun/ticket-lifecycle)**
 
