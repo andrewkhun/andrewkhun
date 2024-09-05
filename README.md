@@ -11,7 +11,7 @@ I am a cybersecurity enthusiast with the ability to swiftly adapt to new environ
 ### Cybersecurity Projects
 
 - **[Creating a SOC and Honeynet in Azure with Real-World Cyber Threats](https://github.com/andrewkhun/Azure-Honeynet-SOC)**
-- **[Conducting a Security Audit on Botium Toys](https://github.com/andrewkhun/Botium-Toys-Audit)**
+- **[Conducting a Security Audit on Botium Toys](https://github.com/andrewkhun/Botium-Toys-Audit/blob/main/Conducting%20a%20Security%20Audit%20on%20Botium%20Toys.pdf)**
   
 ### Microsoft Azure
 - **[Azure Basics: Resource Groups and File Management](https://github.com/andrewkhun/azure-basics)**
